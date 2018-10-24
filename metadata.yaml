@@ -1,0 +1,30 @@
+_version: 0.0.1
+alternative_title: Prvi Srpski bukvar
+creator:
+  author:
+    agent_name: Karadžić, Vuk Stefanović
+    aliases:
+    - Karadzic, Vuk Stefanovic
+    - Караџић, Вук Стефановић
+    birthdate: 1787
+    deathdate: 1864
+    gutenberg_agent_id: '6293'
+    url: http://www.gutenberg.org/2009/agents/6293
+    wikipedia: http://en.wikipedia.org/wiki/Vuk_Stefanovi%C4%87_Karad%C5%BEi%C4%87
+description: ''
+gutenberg_issued: '2005-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15791'
+language: sr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Serbo-Croatian language -- Alphabet'
+- !lcsh 'Serbo-Croatian language -- Grammar'
+- !lcc 'PG'
+- !lcsh 'Serbo-Croatian language -- Readers'
+- GITenberg
+title: Први Српски Буквар
+url: http://www.gutenberg.org/ebooks/15791
